@@ -12,3 +12,5 @@
 * When the going gets tough, the tough get going.
 
 * Fortune favors the bold. 
+
+* People who live in glass houses should not throw stones.
