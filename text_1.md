@@ -14,3 +14,5 @@
 * Fortune favors the bold. 
 
 * People who live in glass houses should not throw stones.
+
+* A picture is worth a thousand words.
