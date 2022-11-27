@@ -16,9 +16,3 @@
 * People who live in glass houses should not throw stones.
 
 * Hope for the best, but prepare for the worst.
-
-comment 0
-
-comment 1
-
-comment 2
